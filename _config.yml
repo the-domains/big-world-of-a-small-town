@@ -1,7 +1,7 @@
 name: Big World of a Small Town
 favicon: null
 layout_spectrum: 0.98607
-typography_spectrum: 0.42642161226831377
+typography_spectrum: 0.5297
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#e8bbc3'
     - '#28363f'
   brandStrength: 0.2724710190668702
-  lightness: 0.2688357459846884
-  saturation: 0.5625
-  rhythmicContrast: 0.22352723008953035
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
