@@ -1,28 +1,40 @@
-name: Big World of a Small Town
 favicon: null
-layout_spectrum: 0.98607
-typography_spectrum: 0.5297
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Big World of a Small Town
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.75
+  brandStrength: 0.2724710190668702
+  rhythmicContrast: 0.75
   brandColors:
     - '#ffffff'
     - '#9e1a2f'
     - '#687274'
     - '#e8bbc3'
     - '#28363f'
-  brandStrength: 0.2724710190668702
   lightness: 0.3125
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.5297
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9531915
+analytics:
+  twitter: null
+  google: null
+  facebook: null
