@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Big World of a Small Town]]></title>
         <description><![CDATA[Big World of a Small Town]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/big-world-of-a-small-town/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 20:24:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 00:06:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/big-world-of-a-small-town/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23805ed6-1f6b-4bb4-8654-40668ae751d6.jpg" alt="" title="">]]></description>
-            <link>undefined5686c2fc-1a41-428c-b789-d40ceebb58cc/index.html</link>
+            <link>https://thegrid.ai/big-world-of-a-small-town/5686c2fc-1a41-428c-b789-d40ceebb58cc/index.html</link>
             <guid isPermaLink="false">5686c2fc-1a41-428c-b789-d40ceebb58cc</guid>
-            <pubDate>Mon, 26 Oct 2015 20:23:25 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2015 00:05:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
